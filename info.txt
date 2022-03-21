@@ -1,0 +1,21 @@
+1)user signup / login localstorage
+2)route
+3)Home , profile
+4)redux , {userData,postData}
+5) Home page per display
+6) Post Create . 
+
+Assignment : 
+1) Make Profile page : Display user
+detail , User Post 
+2) Also Add User Image on signup time
+3) 
+
+
+
+action folder
+case name folder
+
+Hooks Dispatch / getData
+multiple reducer 
+thunk middleware
